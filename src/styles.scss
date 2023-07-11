@@ -1,1 +1,35 @@
 /* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: 'Hatton';
+    src: url(assets/PP_Hatton_Medium_500.otf);
+}
+
+@font-face {
+    font-family: Andasia;
+    src: url(assets/Andasia.ttf);
+}
+
+@font-face {
+    font-family: Garet;
+    src: url(assets/garet.book.otf);
+}
+
+@font-face {
+    font-family: Brown-Sugar;
+    src: url(assets/Brown_Sugar.otf);
+}
+
+@font-face {
+    font-family: Livvic;
+    src: url(assets/Livvic-Regular.ttf);
+}
+
+@font-face {
+    font-family: Livvic-Italic;
+    src: url(assets/Livvic-LightItalic.ttf);
+}
+
+html{
+    background-color: 
+    rgb(234, 232, 224);
+}
